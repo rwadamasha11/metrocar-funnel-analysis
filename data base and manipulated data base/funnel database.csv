@@ -1,0 +1,5 @@
+"funnel_steps","funnel_name","value","pre_stage"
+"1","downloads","23608",""
+"2","signups","17623","74.64842426296171"
+"3","ride_req","12406","70.39664075356069"
+"4","ride_req_com","6233","50.241818474931485"
